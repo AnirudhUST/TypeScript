@@ -1,8 +1,3 @@
-/* Create a TypeScript program to implement a class hierarchy for different types of animals. Each animal should have a name, age, and sound that it makes. 
-Use inheritance to create subclasses for different types of animals such as mammals, birds, and fish.*/
-
- 
-
 
 class Animal {
     name: string;
